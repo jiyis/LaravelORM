@@ -1,0 +1,2 @@
+# LaravelORM
+把强大的Laravel ORM抽离出来，可以在任何地方方便快速使用Laravel ORM以及DB门面类和Schema门面类
